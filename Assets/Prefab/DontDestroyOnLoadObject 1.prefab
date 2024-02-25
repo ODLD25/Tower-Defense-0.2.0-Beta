@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5823168417635678190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9109487408143704542}
+  - component: {fileID: 5236165302172683173}
+  m_Layer: 0
+  m_Name: DontDestroyOnLoadObject 1
+  m_TagString: DontDestroyOnLoad
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9109487408143704542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5823168417635678190}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5236165302172683173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5823168417635678190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47ceaa6227ee64b44b98e5000c687905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  splitCode: 
+  decodedInt: 
+  normalZombie1: {fileID: 0}
+  fastZombie1: {fileID: 0}
+  deadZombie1: {fileID: 0}
+  scientistZombie1: {fileID: 0}
+  spawnerZombie1: {fileID: 0}
+  slowZombie1: {fileID: 0}
+  shadowZombie1: {fileID: 0}
+  normalZombie2: {fileID: 0}
+  fastZombie2: {fileID: 0}
+  deadZombie2: {fileID: 0}
+  scientistZombie2: {fileID: 0}
+  spawnerZombie2: {fileID: 0}
+  slowZombie2: {fileID: 0}
+  shadowZombie2: {fileID: 0}
+  normalZombie3: {fileID: 0}
+  fastZombie3: {fileID: 0}
+  deadZombie3: {fileID: 0}
+  scientistZombie3: {fileID: 0}
+  spawnerZombie3: {fileID: 0}
+  slowZombie3: {fileID: 0}
+  shadowZombie3: {fileID: 0}
+  normalZombie4: {fileID: 0}
+  fastZombie4: {fileID: 0}
+  deadZombie4: {fileID: 0}
+  scientistZombie4: {fileID: 0}
+  spawnerZombie4: {fileID: 0}
+  slowZombie4: {fileID: 0}
+  shadowZombie4: {fileID: 0}
+  normalZombie5: {fileID: 0}
+  fastZombie5: {fileID: 0}
+  deadZombie5: {fileID: 0}
+  scientistZombie5: {fileID: 0}
+  spawnerZombie5: {fileID: 0}
+  slowZombie5: {fileID: 0}
+  shadowZombie5: {fileID: 0}
+  normalZombie6: {fileID: 0}
+  fastZombie6: {fileID: 0}
+  deadZombie6: {fileID: 0}
+  scientistZombie6: {fileID: 0}
+  spawnerZombie6: {fileID: 0}
+  slowZombie6: {fileID: 0}
+  shadowZombie6: {fileID: 0}
+  normalZombie7: {fileID: 0}
+  fastZombie7: {fileID: 0}
+  deadZombie7: {fileID: 0}
+  scientistZombie7: {fileID: 0}
+  spawnerZombie7: {fileID: 0}
+  slowZombie7: {fileID: 0}
+  shadowZombie7: {fileID: 0}
+  normalZombie8: {fileID: 0}
+  fastZombie8: {fileID: 0}
+  deadZombie8: {fileID: 0}
+  scientistZombie8: {fileID: 0}
+  spawnerZombie8: {fileID: 0}
+  slowZombie8: {fileID: 0}
+  shadowZombie8: {fileID: 0}
+  normalZombie9: {fileID: 0}
+  fastZombie9: {fileID: 0}
+  deadZombie9: {fileID: 0}
+  scientistZombie9: {fileID: 0}
+  spawnerZombie9: {fileID: 0}
+  slowZombie9: {fileID: 0}
+  shadowZombie9: {fileID: 0}
+  normalZombie10: {fileID: 0}
+  fastZombie10: {fileID: 0}
+  deadZombie10: {fileID: 0}
+  scientistZombie10: {fileID: 0}
+  spawnerZombie10: {fileID: 0}
+  slowZombie10: {fileID: 0}
+  shadowZombie10: {fileID: 0}
+  normalZombie11: {fileID: 0}
+  fastZombie11: {fileID: 0}
+  deadZombie11: {fileID: 0}
+  scientistZombie11: {fileID: 0}
+  spawnerZombie11: {fileID: 0}
+  slowZombie11: {fileID: 0}
+  shadowZombie11: {fileID: 0}
+  normalZombie12: {fileID: 0}
+  fastZombie12: {fileID: 0}
+  deadZombie12: {fileID: 0}
+  scientistZombie12: {fileID: 0}
+  spawnerZombie12: {fileID: 0}
+  slowZombie12: {fileID: 0}
+  shadowZombie12: {fileID: 0}
+  normalZombie13: {fileID: 0}
+  fastZombie13: {fileID: 0}
+  deadZombie13: {fileID: 0}
+  scientistZombie13: {fileID: 0}
+  spawnerZombie13: {fileID: 0}
+  slowZombie13: {fileID: 0}
+  shadowZombie13: {fileID: 0}
+  normalZombie14: {fileID: 0}
+  fastZombie14: {fileID: 0}
+  deadZombie14: {fileID: 0}
+  scientistZombie14: {fileID: 0}
+  spawnerZombie14: {fileID: 0}
+  slowZombie14: {fileID: 0}
+  shadowZombie14: {fileID: 0}
+  normalZombie15: {fileID: 0}
+  fastZombie15: {fileID: 0}
+  deadZombie15: {fileID: 0}
+  scientistZombie15: {fileID: 0}
+  spawnerZombie15: {fileID: 0}
+  slowZombie15: {fileID: 0}
+  shadowZombie15: {fileID: 0}
+  normalZombie16: {fileID: 0}
+  fastZombie16: {fileID: 0}
+  deadZombie16: {fileID: 0}
+  scientistZombie16: {fileID: 0}
+  spawnerZombie16: {fileID: 0}
+  slowZombie16: {fileID: 0}
+  shadowZombie16: {fileID: 0}
+  normalZombie17: {fileID: 0}
+  fastZombie17: {fileID: 0}
+  deadZombie17: {fileID: 0}
+  scientistZombie17: {fileID: 0}
+  spawnerZombie17: {fileID: 0}
+  slowZombie17: {fileID: 0}
+  shadowZombie17: {fileID: 0}
+  normalZombie18: {fileID: 0}
+  fastZombie18: {fileID: 0}
+  deadZombie18: {fileID: 0}
+  scientistZombie18: {fileID: 0}
+  spawnerZombie18: {fileID: 0}
+  slowZombie18: {fileID: 0}
+  shadowZombie18: {fileID: 0}
+  normalZombie19: {fileID: 0}
+  fastZombie19: {fileID: 0}
+  deadZombie19: {fileID: 0}
+  scientistZombie19: {fileID: 0}
+  spawnerZombie19: {fileID: 0}
+  slowZombie19: {fileID: 0}
+  shadowZombie19: {fileID: 0}
+  normalZombie20: {fileID: 0}
+  fastZombie20: {fileID: 0}
+  deadZombie20: {fileID: 0}
+  scientistZombie20: {fileID: 0}
+  spawnerZombie20: {fileID: 0}
+  slowZombie20: {fileID: 0}
+  shadowZombie20: {fileID: 0}
+  startingWaveObject: {fileID: 0}
+  startingMoneyObject: {fileID: 0}
+  wave1: 00000000000000000000000000000000000000000000000000000000
+  wave2: 00000000000000000000000000000000000000000000000000000000
+  wave3: 00000000000000000000000000000000000000000000000000000000
+  wave4: 00000000000000000000000000000000000000000000000000000000
+  wave5: 00000000000000000000000000000000000000000000000000000000
+  wave6: 00000000000000000000000000000000000000000000000000000000
+  wave7: 00000000000000000000000000000000000000000000000000000000
+  wave8: 00000000000000000000000000000000000000000000000000000000
+  wave9: 00000000000000000000000000000000000000000000000000000000
+  wave10: 00000000000000000000000000000000000000000000000000000000
+  wave11: 00000000000000000000000000000000000000000000000000000000
+  wave12: 00000000000000000000000000000000000000000000000000000000
+  wave13: 00000000000000000000000000000000000000000000000000000000
+  wave14: 00000000000000000000000000000000000000000000000000000000
+  wave15: 00000000000000000000000000000000000000000000000000000000
+  wave16: 00000000000000000000000000000000000000000000000000000000
+  wave17: 00000000000000000000000000000000000000000000000000000000
+  wave18: 00000000000000000000000000000000000000000000000000000000
+  wave19: 00000000000000000000000000000000000000000000000000000000
+  wave20: 00000000000000000000000000000000000000000000000000000000
+  startingWave: 0
+  startingMoney: 0
+  CodeObject: {fileID: 0}
+  DecodeObject: {fileID: 0}
